@@ -1,0 +1,14 @@
+.nav {
+    background-color: #f4f4f4;
+    padding: 1rem;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav li {
+    margin: 0.5rem 0;
+  }
+  
